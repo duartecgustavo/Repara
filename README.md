@@ -17,13 +17,14 @@
 ---
 ### Conhecendo o Repara :mag_right:
 
-**Pitch** [:clapper:](https://www.youtube.com/watch?v=pXaGtlmZyS8)
+* **Pitch** [:clapper:](https://www.youtube.com/watch?v=pXaGtlmZyS8)
 
-**Navegando no App** [:speedboat:](https://www.youtube.com/watch?v=q7Xnd_zlObE)
+* **Navegando no App** [:speedboat:](https://www.youtube.com/watch?v=q7Xnd_zlObE)
 
-**Apresentação escrita** []()
+* **Apresentação escrita** [:bookmark_tabs:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/Repara%20PDF.pdf)
 
-**Aplicativo.aia** []()
+* **Aplicativo.aia** [:floppy_disk:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/tuto-install-app.md)
+> para usar o app é necessario seguir as instruções listadas no link acima 
 
 
 [:arrow_left:](https://github.com/duartecgustavo)
