@@ -6,17 +6,17 @@
 
 ---
 ### Como surgiu?
-A ideia foi idealizada e concebida para o **HACKTHON - RECODE PRO 2020**. Esse evento durou 2 dias e participação *750 pessoas* dividiidas em mais de *100 times*, entre os estados de São Paulo e Rio de Janeiro.
+>> A ideia foi idealizada e concebida para o **HACKTHON - RECODE PRO 2020**. Esse evento durou 2 dias e participação *750 pessoas* dividiidas em mais de *100 times*, entre os estados de São Paulo e Rio de Janeiro.
 
 ---
-### Premio.
-Os selecionados ganharam além do *reconhecimento* pelo trabalho feito, a *oportunidade* de passar para proxima fase no processo seletivo do **RECODE PRO** que oferece um *curso gratuito* de programação **FULL STACK**.
+### Premio :trophy:
+>> Os selecionados ganharam além do *reconhecimento* pelo trabalho feito, a *oportunidade* de passar para proxima fase no processo seletivo do **RECODE PRO** que oferece um *curso gratuito* de programação **FULL STACK**.
 
 **RECODE PRO - SITE** [:link:](https://www.recodepro.org.br/)
 
 ---
-### Conhcendo o Repara:
+### Conhecendo o Repara :mag_right:
 
-<pitch> [![](http://img.youtube.com/vi/pXaGtlmZyS8/0.jpg)](http://www.youtube.com/watch?v=pXaGtlmZyS8 "")
+**Pitch** [:clapper:](https://www.youtube.com/watch?v=pXaGtlmZyS8)
 
-Navegando no App - 
+**Navegando no App** [:speedboat:](https://www.youtube.com/watch?v=q7Xnd_zlObE)
