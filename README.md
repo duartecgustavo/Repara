@@ -1,4 +1,4 @@
-<img width="125" align="left" alt="Repara_sem_fundo" src="https://user-images.githubusercontent.com/65131471/88334437-27d62700-cd08-11ea-8d8d-2726d3d745c2.png">
+<img width="115" align="left" alt="Repara_sem_fundo" src="https://user-images.githubusercontent.com/65131471/88334437-27d62700-cd08-11ea-8d8d-2726d3d745c2.png">
 
 ### O que é?
 É um aplicativo voltado para **questão Ambiental** no contexto **tecnológico e pandemico** de 2020. Tem por objetivo auxiliar e facilitar questões importantes como a **reutilização, reciclagem e descarte correto** do **Lixo Eletronico** que produzimos.
