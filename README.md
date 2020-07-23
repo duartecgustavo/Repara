@@ -1,6 +1,6 @@
 <img width="125" align="left" alt="Repara_sem_fundo esc" src="https://user-images.githubusercontent.com/65131471/88328117-55b66e00-ccfe-11ea-9dbd-dbc67c5c0c91.png">
 
-### O que é o repara?
+### O que é?
 É um aplicativo voltado para **questão Ambiental** no contexto **tecnológico e pandemico** de 2020. Tem por objetivo auxiliar e facilitar questões importantes como a **reutilização, reciclagem e descarte correto** do **Lixo Eletronico** que produzimos.
 
 ### Como surgiu?
