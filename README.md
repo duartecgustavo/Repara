@@ -21,3 +21,10 @@
 **Pitch** [:clapper:](https://www.youtube.com/watch?v=pXaGtlmZyS8)
 
 **Navegando no App** [:speedboat:](https://www.youtube.com/watch?v=q7Xnd_zlObE)
+
+**Apresentação escrita** []()
+
+**Aplicativo.aia** []()
+
+
+[:arrow_left:](https://github.com/duartecgustavo)
