@@ -6,7 +6,7 @@ Para faze-lo funcionar é necessario.
 
 * 1° - **logar** com sua conta google.
 
-* 2° - Ir em **My Projects** e depois **Import project (aia) from my computer ...**.
+* 2° - Ir em **My Projects** e depois **Import project (aia) from my computer**.
 
 ![MIT TUTO](https://user-images.githubusercontent.com/65131471/88440389-2c700d80-cde4-11ea-9c1f-a9917dc369a4.jpg)
 
@@ -19,6 +19,8 @@ Após fazer esse procedimento, o app já estara nos seus projetos do MIT com o c
 * Baixe o app **MIT App Inventor** em seu celular através da *Play Story*, abra o app e selecione **SCAN QR CODE**. 
 
 * Depois vá no site e clique em **Conect** depois em **Al Companion**.
+
+![MIT TUTO](https://user-images.githubusercontent.com/65131471/88441261-ec5e5a00-cde6-11ea-86fd-a71b1345260b.jpg)
 
 * Basta **escanear o QR CODE** que irá aparecer com seu celular.
 
