@@ -4,7 +4,7 @@ O aplicativo foi desenvolvido através do site **MIT App Inventor** [:link:](htt
 
 Para faze-lo funcionar é necessario.
 
-* 1° - **logar** com sua conta google.
+* 1° - **Logar** com sua conta google.
 
 * 2° - Ir em **My Projects** e depois **Import project (aia) from my computer**.
 
