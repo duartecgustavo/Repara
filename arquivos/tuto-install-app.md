@@ -1,4 +1,4 @@
-### Tutorial de instalação:
+### Tutorial de instalação Repara :toolbox:
 
 O aplicativo foi desenvolvido através do site **MIT App Inventor** [:link:](http://ai2.appinventor.mit.edu/).
 
