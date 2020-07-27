@@ -10,7 +10,7 @@ Para faze-lo funcionar é necessario.
 
 ![MIT TUTO](https://user-images.githubusercontent.com/65131471/88440389-2c700d80-cde4-11ea-9c1f-a9917dc369a4.jpg)
 
-* 3° - Após isso selecione o arquivo **Repara.aia** que esta disponivel para download abaixo.
+* 3° - Após isso, selecione o arquivo **Repara.aia** que esta disponivel para download abaixo.
 
 Após fazer esse procedimento, o app já estara nos seus projetos do MIT com o código aberto inclusive.
 
@@ -22,7 +22,7 @@ Após fazer esse procedimento, o app já estara nos seus projetos do MIT com o c
 
 ![MIT TUTO](https://user-images.githubusercontent.com/65131471/88441261-ec5e5a00-cde6-11ea-86fd-a71b1345260b.jpg)
 
-* Basta **escanear o QR CODE** que irá aparecer com seu celular.
+* Basta **escanear o QR CODE** que o app irá aparecer em seu celular.
 
 ---
 ### Repara.aia - clique na logo abaixo para download:
