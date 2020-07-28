@@ -13,6 +13,8 @@
 ### Premio :trophy:
 > Os selecionados ganharam além do *reconhecimento* pelo trabalho feito, a *oportunidade* de passar para proxima fase no processo seletivo do **RECODE PRO** que oferece um *curso gratuito* de programação **FULL STACK**.
 
+**Projetos campeões** [:link:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/Projetos-finalistas-Hackton-2020.pdf)
+
 **RECODE PRO - SITE** [:link:](https://www.recodepro.org.br/)
 
 ---
