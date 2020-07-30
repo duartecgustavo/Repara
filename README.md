@@ -15,6 +15,8 @@
 
 **Projetos campeões** [:link:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/Projetos-finalistas-Hackton-2020.pdf)
 
+**Certificado de Participação** [:link:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/Certificado%20Tecnologias%20Exp%C3%B4nenciais.pdf)
+
 **RECODE PRO - SITE** [:link:](https://www.recodepro.org.br/)
 
 ---
