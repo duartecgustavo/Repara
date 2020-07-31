@@ -5,7 +5,7 @@
 
 ---
 ### Como surgiu?
-> A ideia foi idealizada e concebida para o **HACKTHON - RECODE PRO 2020**. Esse evento durou 2 dias e participação *750 pessoas* dividiidas em mais de *100 times*, entre os estados de São Paulo e Rio de Janeiro.
+> A ideia foi idealizada e concebida para o **HACKTHON - RECODE PRO 2020**. Esse evento durou 2 dias e a participação *750 pessoas* divididas em mais de *100 times*, entre os estados de São Paulo e Rio de Janeiro.
 
 **REGULAMENTO** [:scroll:](https://www.recodepro.org.br/wp-content/uploads/2020/07/Regulamento_Hackathon-Recode-Pro_2020_vfinal-1.pdf)
 
