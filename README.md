@@ -17,6 +17,8 @@
 
 **Certificado de Participação** [:link:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/CERTIFICADO%20HACKTHON%202020.pdf)
 
+**Lista de selecionados para o curso Full Stack** [:link:](https://github.com/duartecgustavo/Repara/blob/master/arquivos/Lista-de-aprovados-SP-1.pdf)
+
 **RECODE PRO - SITE** [:link:](https://www.recodepro.org.br/)
 
 ---
