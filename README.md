@@ -34,4 +34,6 @@
 > para usar o app é necessario seguir as instruções listadas no link acima 
 
 
+<img alt="Repara_sem_fundo" src="https://user-images.githubusercontent.com/65131471/93386595-5111c000-f83e-11ea-8bcf-0a00dd2a2a3d.png">
+
 [:arrow_left:](https://github.com/duartecgustavo)
